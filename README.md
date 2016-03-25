@@ -14,4 +14,4 @@ num_neg_emp = 10000
 |        4|		  0.75|0.908|
 |        3|  		0.75|0.918|
 
-See more details at: [Computer Vision Project 54 Website](http://all4win.github.io/projects/cv_proj5/index.html)
+See more details at: [Computer Vision Project 5 Website](http://all4win.github.io/projects/cv_proj5/index.html)
